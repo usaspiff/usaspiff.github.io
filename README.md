@@ -5,6 +5,10 @@ Upload a picture (ideally of your food) to find out the average rgb value of the
 
 ##### Try it here: [www.theyellowdiet.com](http://theyellowdiet.com)
 
+<p align="center">
+  <img src="https://github.com/usaspiff/usaspiff.github.io/blob/master/yellow-diet-demo.jpg">
+</p>
+
 ## Project scope:
 Extract the pixel data from an uploaded picture to average the rgb value and compare it to the arbitrary threshold to determine if the subject falls in the yellow color spectrum.
 
